@@ -440,6 +440,15 @@ strong {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
+.article-full {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+}
+
+.article-full:last-child {
+    margin-bottom: 0;
+}
+
 /* Team Section */
 .team-intro {
     text-align: center;
